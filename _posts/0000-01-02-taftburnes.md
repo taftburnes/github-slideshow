@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text v2
+This is Taft Burnes' Slide
 Use the left arrow to go back!
